@@ -1,6 +1,6 @@
 # Hi there, I'm Shivam! 👋 
 
-### 🚀 Product-Minded Engineer | Automation Architect | Agentic AI Builder
+### 🚀 Product-Minded Engineer | Full Stack Engineer | Agentic AI Builder
 
 I am a Computer Science Engineer who obsesses over the **"Why"** as much as the **"How."** I don't just write code; I build products that solve high-stakes operational friction. Whether it's ranking Top 3 in a National PM Challenge or cutting a 7-day business process down to 3 hours with AI, I thrive at the intersection of technical architecture and user-centric strategy.
 
